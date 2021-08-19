@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ToDoText": {
+      "commandName": "Project",
+      "commandLineArgs": "all"
+    }
+  }
+}
